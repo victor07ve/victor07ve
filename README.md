@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-victor07ve/victor07ve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+v[ictor07ve/victor07ve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->](https://github.com/victor07ve/victor07ve.git)https://github.com/victor07ve/victor07ve.git
